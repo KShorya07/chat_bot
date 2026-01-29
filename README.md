@@ -12,4 +12,4 @@ In task 2: I have made a chat bot using the Rag and llm for the tesla stock pric
 ps2
 
 
-I have made a basic model in which i have taken fake image manually.
+I have made a basic model in which i have taken fake image manually  and also taken an image of a dog i which i have done the forward diffusion and reverse diffusion to genrate the original iamge back.
